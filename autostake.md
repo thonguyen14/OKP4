@@ -9,12 +9,12 @@
     ./okp4restake.sh
     
 - để thoát 
-      tmux okp4dupgarde  
-      exit
+        tmux okp4dupgarde  
+        exit
 # command tmux
  tham khảo https://www.hostinger.vn/huong-dan/tmux
 - Tạo session mới:
-      tmux
+        tmux
 - Tạo một session mới có tên:
 
       tmux new -s [name]
