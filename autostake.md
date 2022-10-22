@@ -10,7 +10,7 @@ okp4d config keyring-backend test && wget -O okp4restake.sh https://raw.githubus
  ```   
 - để thoát 
 ```
- tmux okp4dupgarde  
+ tmux attach -t okp4dupgarde  
  exit
  ```
 # command tmux
